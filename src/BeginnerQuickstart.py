@@ -1,3 +1,7 @@
+"""
+This file classifies the MNIST 0-9 digits
+"""
+
 # noinspection PyUnresolvedReferences
 import tensorflow as tf
 import os
